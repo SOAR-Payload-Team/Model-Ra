@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MainBoard.PrjPcb]
+   Generated File[MainBoard_Model_Ra.TXT]
+   Generated File[MainBoard_Model_Ra.LDP]
+   Generated File[MainBoard_Model_Ra.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:10:08 PM On 2021-10-23

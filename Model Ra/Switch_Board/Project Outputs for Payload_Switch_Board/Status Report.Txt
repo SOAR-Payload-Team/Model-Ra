@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Payload_Switch_Board.PrjPcb]
+   Generated File[Payload_Switch_Board.TXT]
+   Generated File[Payload_Switch_Board.LDP]
+   Generated File[Payload_Switch_Board.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 12:59:57 PM On 2021-10-23
